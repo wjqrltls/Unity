@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/IntroScene.unity
+    guid: 719f892510b8b514593f6bef3623fd42
+  - enabled: 1
+    path: Assets/Scenes/Solitaire.unity
+    guid: 4a830394db3e3419a9ca1858571f9fa6
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 99e0fd1b2204541f0a217906746d551f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 36dfd6b003397489b887ad60165aeefa, type: 2}
