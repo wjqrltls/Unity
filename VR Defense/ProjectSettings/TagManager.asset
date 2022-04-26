@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy_HitBox
+  - Defalt_Enemy
+  - Speed_Enemy
+  - ' Explosion_Enemy'
+  - Aerial_Enemy
+  - Physical_Enemy
+  - Reinforced_Enemy
+  - Heal
+  - Bullet
+  - Enemy_atk
+  - Speed_atk
+  - Aerial_atk
+  - Physical_atk
+  - Reinforced_atk
+  - Player1_HitBox
+  - Player4_HitBox
+  - Player2_HitBox
+  - Defanse_Point
+  - Map2
+  - Middle_Enemy
+  - Middle_atk
+  - Final_Enemy
+  - Final_atk
+  - Camera
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Point
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
